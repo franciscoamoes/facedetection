@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(89deg, #004FF9 0%, #FFF94C 100%); /* uiGradients */
+}
+
+button {
+  cursor: pointer;
+}
